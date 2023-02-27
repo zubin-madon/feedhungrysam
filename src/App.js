@@ -3,8 +3,8 @@ import './App.css';
 
 function App() {
   return (
-    <div class="bg-[url('/jail.jpg')] h-screen w-full bg-cover bg-center bg-no-repeat relative font-mono">
-    <div class="container basis-1/3 w-1/3 text-left absolute right-10 mt-10">
+    <div class="bg-[url('/jail.jpg')] md:h-screen md:w-full md:bg-cover bg-center bg-no-repeat relative font-mono">
+    <div class="m-10 container md:basis-1/3 md:w-1/3 md:text-left md:absolute md:right-10 md:mt-10">
     <div class="container mb-5">
     <h1 class="text-6xl text-slate-200 text-bold">FeedHungrySam</h1> 
     </div>
