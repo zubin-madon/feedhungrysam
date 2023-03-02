@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
    <>
-<div className=' bg-[url(./jail.jpg)] bg-fixed w-full h-screen md:w-full bg-cover bg-center bg-no-repeat relative font-mono '>
+<div className=' bg-[url(/jail.jpg)] bg-fixed w-full h-screen md:w-full bg-cover bg-center bg-no-repeat relative font-mono '>
         <div className=" md:hidden absolute text-center w-full py-4 md:bg-transparent bg-black bg-opacity-50">
               <h1 className="md:text-6xl text-4xl text-slate-200 text-bold px-5">FeedHungrySam</h1>
             </div>
