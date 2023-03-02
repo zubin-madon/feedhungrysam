@@ -31,10 +31,10 @@ function App() {
             <div className="md:flex hidden py-4 md:bg-transparent bg-black bg-opacity-25">
               <h1 className="md:text-6xl text-4xl text-slate-200 text-bold px-5">FeedHungrySam</h1>
             </div>
-            <div className='md:bg-transparent bg-black bg-opacity-25 px-5 py-3 '>
+            <div className="md:bg-transparent bg-black bg-opacity-25 px-5 py-3">
               <div className=" mb-5 text-slate-400 text-xl ">
                 <p className="mb-10">
-                  FEAT's mission is to increase the price of everyone's bankruptcy assets by acquiring spot FTT & opening levered positions with proceeds from a 2% tax. Toxic leeches like John Ray, Kyle & Zhu, and FTX's legal team are all seeking to drain user funds for their own gain. It's time we created a vehicle for users to fight back.
+                  FEAT&#39;s mission is to increase the price of everyone&#39;s bankruptcy assets by acquiring spot FTT and opening levered positions with proceeds from a 2% tax. Toxic leeches like John Ray, Kyle & Zhu, and FTX&#39;s legal team are all seeking to drain user funds for their own gain. It&#39;s time we created a vehicle for users to fight back.
                 </p>
               </div>
               <div className="flex space-x-2 justify-left ">
