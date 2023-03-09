@@ -5,7 +5,7 @@ function App() {
   return (
       <>
 <div className=' bg-[url(/jail.jpg)] bg-fixed w-full h-screen md:w-full bg-center bg-cover bg-no-repeat relative font-mono '>
-        <div className=" md:hidden absolute text-center w-full py-4 md:bg-transparent">
+        <div className=" md:hidden absolute text-center w-full py-4 md:bg-transparent bg-black bg-opacity-25">
               <h1 className="md:text-6xl text-4xl text-slate-200 text-bold px-5">FeedHungrySam</h1>
             </div>
           <div className='invisible md:visible lg:w-1/3 md:w-1/2 w-full md:text-left absolute md:top-10 sm:top:40  lg:right-20 md:right-10 right-0 md:p-0  top-[95%] ' >
